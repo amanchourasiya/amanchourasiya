@@ -2,22 +2,20 @@ Hello I am a software developer working on platform development and involved in 
 
 ## My Stack
 
-Languages: Python,C++
+Languages: Python, Go, C
 <br>
-Backend: Django
+Cloud: AWS, Openstack
 <br>
-Frontend: HTML5, CSS3, Bootstrap
+API: OpenAPI , go-swagger
 <br>
-API: Django REST Framework
-<br>
-Databases: MySQL
-<br>
-Tools: Git, Github
+Tools: Jenkins, Kubernetes, Docker, Podman
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amanchourasiya&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=amanchourasiya&layout=compact)
 
+- 🌱 I’m currently learning Kubernetes and AWS.
+- 🔭 I am continuously increasing my knowledge and skills in cyber security.
 <!--
 *suhailvs/suhailvs* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
